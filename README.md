@@ -1,4 +1,4 @@
-## Hi there 👋
+Currently migrating commits from old account @fingriffin...
 
 <!--
 **fin-griffin/fin-griffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
