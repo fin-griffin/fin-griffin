@@ -1,4 +1,4 @@
-I am a research engineer working on reinforcement learning and AI4Science.
+I am a research engineer working on reinforcement learning and AI for Science.
 
 <!--
 **fin-griffin/fin-griffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
