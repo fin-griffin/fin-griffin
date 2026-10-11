@@ -1,4 +1,4 @@
-Currently migrating commits from old account [@fingriffin](https://github.com/fingriffin)...
+I am a research engineer working on reinforcement learning and AI4Science.
 
 <!--
 **fin-griffin/fin-griffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
